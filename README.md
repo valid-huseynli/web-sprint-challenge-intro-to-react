@@ -29,7 +29,7 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is React JS and what problems does it solve? Support your answer with concepts introduced in class and from your personal research on the web.
--It is a front end library that helps devs creeate reusable components in an efficient way.
+-It is a front end library that help devs creeate reusable components in an efficient way.
 
 1. Describe component state.
 -Data that is stored within a component. If it changes, the component will be re-rendered.
